@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1459533473 source:c:\users\julian\desktop\school\csc210\program4\boardtype.cpp
+	<iostream>
+	<cstddef>
+	"boardType.h"
+
+1459533515 c:\users\julian\desktop\school\csc210\program4\boardtype.h
+
+1459533355 source:c:\users\julian\desktop\school\csc210\program4\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"boardType.h"
+	"shipType.h"
+
+1459528094 c:\users\julian\desktop\school\csc210\program4\shiptype.h
+
+1459529600 source:c:\users\julian\desktop\school\csc210\program4\shiptype.cpp
+	<iostream>
+	<cstddef>
+	"shipType.h"
+
+1459629955 source:c:\users\julian\desktop\school\csc210\program4 - copy\boardtype.cpp
+	<iostream>
+	<cstddef>
+	"boardType.h"
+
+1459715680 c:\users\julian\desktop\school\csc210\program4 - copy\boardtype.h
+
+1459629012 source:c:\users\julian\desktop\school\csc210\program4 - copy\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"boardType.h"
+	"shipType.h"
+
+1459629527 c:\users\julian\desktop\school\csc210\program4 - copy\shiptype.h
+
+1459629527 source:c:\users\julian\desktop\school\csc210\program4 - copy\shiptype.cpp
+	<iostream>
+	<cstddef>
+	"shipType.h"
+
+1459715680 source:d:\school\csc210\program4 - copy\boardtype.cpp
+	<iostream>
+	<cstddef>
+	"boardType.h"
+
+1459715680 d:\school\csc210\program4 - copy\boardtype.h
+
+1459629012 source:d:\school\csc210\program4 - copy\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"boardType.h"
+	"shipType.h"
+
+1459629527 d:\school\csc210\program4 - copy\shiptype.h
+
+1459629527 source:d:\school\csc210\program4 - copy\shiptype.cpp
+	<iostream>
+	<cstddef>
+	"shipType.h"
+
